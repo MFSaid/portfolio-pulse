@@ -1,4 +1,4 @@
-﻿# portfolio-pulse
+﻿
 # Portfolio Pulse 📈
 
 [![Tests](https://github.com/MFSaid/portfolio-pulse/actions/workflows/tests.yml/badge.svg)](https://github.com/MFSaid/portfolio-pulse/actions/workflows/tests.yml)
